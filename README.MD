@@ -99,9 +99,6 @@ This project uses a star schema structure with dimensions and fact tables:
 
 ### 🔍 Key Highlights
 
-🗓️ Top Months:
-![Months](/Images/Profit_by_Months.PNG)
-
 🧾 Weekday vs Weekend:
 ![Weekday_vs_Weekend](/Images/Weedays_vs_Weekend.PNG)
 
